@@ -6,7 +6,7 @@
   
 3. Catering & Event Booking Website
 
-4. Build-Your-Own Coffee Web App
+4. Build Your Own Coffee Web App
 
 5. Online Ordering & Custom Pastry Builder
 
@@ -14,6 +14,6 @@
 
 7. Full Bakery E-Commerce Website
 
-8. All-in-One Restaurant Web App
+8. Restaurant Web App
 
 9. Build Your Own Donut Shop
